@@ -36,11 +36,6 @@
 
 
 
-### Now Playing 🎧
-
-[![Spotify](https://novatorem-mraehanr.vercel.app/api/spotify.py)](https://open.spotify.com/user/geuv644weuu28fkg51p9h8upw?si=cc80b0011cd5463f)
-<br/>
----
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andikanatha&show_icons=true&theme=radical" />
