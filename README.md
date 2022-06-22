@@ -7,7 +7,7 @@ Mobile Developer
 * 🌍  I'm based in Semarang
 * ✉️  You can contact me at [setya.natha@gmail.com](mailto:setya.natha@gmail.com)
 * 🚀  I'm currently working on [SMK Raden Umar Said Kudus](http://smkrus.sch.id/)
-* 🧠  I'm learning Java, Dart, JavaScript, HTML, CSS, PHP, Pyhton
+* 🧠  I'm learning Java, Dart, JavaScript, HTML, CSS
 * 🤝  I'm open to collaborating on Mobile apps and MultiPlatfrom Project
 
 ### Skills
