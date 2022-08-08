@@ -1,4 +1,4 @@
-Hi 👋 My name is Andika Setya Eka Natha
+Hi 👋 My name is Dika
 =======================================
 
 Mobile Developer
